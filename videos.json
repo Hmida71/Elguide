@@ -1,126 +1,74 @@
-{
-    "27": [
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.El.Aarsa.-.@redouane.doulach5.MOSTAGANEM.Bienvenue.a.Mostagane.mp4",
-            "title": "العرصة - El Aarsa",
-            "description": "📸 Source: @redouane.doulach5"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/Aidkam.Mubarak.MOSTAGANEM.VILLE.-.@Redouandoulach.MOSTAGANEM.Bienvenue.a.Mo.mp4",
-            "title": "عيدكم مبارك - Aidkam Mubarak",
-            "description": "📸 Source: @Redouandoulach"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.SALAMANDRE.-.@redouane.doulach5.MOSTAGANEM.Bienvenue.a.Mosta.mp4",
-            "title": "سالاماندر - Salamandre",
-            "description": "📸 Source: @redouane.doulach5"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/CAP.IVI.MOSTAGANEM.VILLE.-.@.MOSTAGANEM.Bienvenue.a.Mostaganem.la.perle.de.mp4",
-            "title": "كاب إيفي - Cap Ivi",
-            "description": "📸 Source: mostaganem.ville"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/MOSTAGANEM.MOSTAGANEM.-.djey.ph.Bienvenue.a.Mostaganem.la.perle.de.Mediterrane.mp4",
-            "title": "مستغانم - Mostaganem",
-            "description": "📸 Source: @djey.ph"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/OUILIS.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.Mostagan.mp4",
-            "title": "ويليس - Ouilis",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/MOSTAGANEM.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.Mostaganem.la.perle.de.mp4",
-            "title": "مستغانم - Mostaganem",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/Bosquet.Plage.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.Mostaganem.la.perle.mp4",
-            "title": "شاطئ بوسكي - Bosquet Beach",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HAI.SALEM-.Plage.SIDI.EL.MEJDOUB.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.mp4",
-            "title": "حي سالم - شاطئ سيدي المجدوب",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/BOUSQUET.PLAGE.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.Mostaganem.la.perl.mp4",
-            "title": "شاطئ بوسكي - Bousquet Beach",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/CAP.IVI.MOSTAGANEM.-.@simo_wassim_nabi10.Bienvenue.a.Mostaganem.la.perle.de.Me.mp4",
-            "title": "كاب إيفي - Cap Ivi",
-            "description": "📸 Source: @simo_wassim_nabi10"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/A.Night.in.Mostaganem.MOSTAGANEM.VILLE.-.@yacine.visuel.Bienvenue.a.Mostagane.mp4",
-            "title": "ليلة في مستغانم - A Night in Mostaganem",
-            "description": "📸 Source: @yacine.visuel"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/MOSTA.WORLD.MOSTAGANEM.VILLE.-.yacine_drk.94.Bienvenue.a.Mostaganem.la.perle.de.mp4",
-            "title": "عالم مستغانم - Mosta World",
-            "description": "📸 Source: @yacine_drk.94"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/CAP.IVI.MOSTAGANEM.-@.Bienvenue.a.mostaganem.mp4",
-            "title": "كاب إيفي - Cap Ivi",
-            "description": "📸 Source: mostaganem.ville"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/default.mp4",
-            "title": "مستغانم - المدينة",
-            "description": "📸 Source: mostaganem.ville"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/GOOD.NIGHT.MOSTAGANEM.LES.SABLETTES.MOSTAGANEM.-.Bienvenue.a.mostaganem.La.mp4",
-            "title": "ليلة سعيدة - ليه سابلات",
-            "description": "📸 Source: mostaganem.ville"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.MESRA.ISLAND.MOSTAGANEM.-.redouanedoulach.Bienvenue.a.mostagane.mp4",
-            "title": "جزيرة المسرة - Mesra Island",
-            "description": "📸 Source: @redouanedoulach"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.MOSTAGANEM.-.redouanedoulach.Bie.mp4",
-            "title": "مستغانم - Mostaganem",
-            "description": "📸 Source: @redouanedoulach"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.SALAMANDRE.THIS.WEEK.MOSTAGANEM.-.@nadirmaker.Bienvenue.a.Most.mp4",
-            "title": "سالاماندر - Salamandre",
-            "description": "📸 Source: @nadirmaker"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/MostaganeM.Today.MOSTAGANEM.-.redouanedoulach.Bienvenue.a.Mostaganem.la.perl.mp4",
-            "title": "مستغانم اليوم - Mostaganem Today",
-            "description": "📸 Source: @redouanedoulach"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/MOSTAGANEM.-.@nadirmaker.Bienvenue.a.Mostaganem.la.perle.de.Mediterrane.mp4",
-            "title": "مستغانم - Mostaganem",
-            "description": "📸 Source: @nadirmaker"
-        },
-        {
-            "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.SALAMANDRE.-.@cheikh_abdellatif.latif.MOSTAGANEM.Bienvenue.a.M.mp4",
-            "title": "سالاماندر - Salamandre",
-            "description": "📸 Source: @cheikh_abdellatif.latif"
-        }
-    ],
-    "31": [
-        {
-            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
-            "title": "قلعة سانتا كروز ",
-            "description": "Santa Cruz Fortress"
-        },
-        {
-            "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/VolkswagenGTIReview.mp4",
-            "title": "كورنيش وهران",
-            "description": "Oran's beautiful corniche"
-        }
-    ]
-}
+[
+  {
+    "title": "A Night in Mostaganem 🌃 ❤️📍 MOSTAGANEM VILLE",
+    "url": "https://hmida71.github.io/Elguide/video/A%20Night%20in%20Mostaganem%20🌃%20❤️📍%20MOSTAGANEM%20VILLE%20📍📸-%20@yacine.visuel%20👏🏻❤️%20Bienvenue%20à%20Mostagane.mp4"
+  },
+  {
+    "title": "Aïdkam Mubarak 💙😍📍 MOSTAGANEM VILLE",
+    "url": "https://hmida71.github.io/Elguide/video/Aïdkam%20Mubarak%20💙😍📍%20MOSTAGANEM%20VILLE%20📍📸-%20@Redouandoulach%20👏🏻❤️%20📍MOSTAGANEM📍Bienvenue%20à%20Mo.mp4"
+  },
+  {
+    "title": "BOUSQUET PLAGE ❤️😍📍 MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/BOUSQUET%20PLAGE%20❤️😍📍%20MOSTAGANEM%20📍📸-%20@simo_wassim_nabi10%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perl.mp4"
+  },
+  {
+    "title": "Bosquet Plage ❤️😍📍 MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/Bosquet%20Plage%20❤️😍📍%20MOSTAGANEM%20📍📸-%20@simo_wassim_nabi10%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perle.mp4"
+  },
+  {
+    "title": "CAP IVI ❤️😍📍 MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/CAP%20IVI%20❤️😍📍%20MOSTAGANEM%20📍📸-%20@simo_wassim_nabi10%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perle%20de%20Mé.mp4"
+  },
+  {
+    "title": "CAP IVI 💙😍📍 MOSTAGANEM VILLE",
+    "url": "https://hmida71.github.io/Elguide/video/CAP%20IVI%20💙😍📍%20MOSTAGANEM%20VILLE%20📍📸-%20@%20👏🏻❤️%20📍MOSTAGANEM📍Bienvenue%20à%20Mostaganem%20la%20perle%20de%20.mp4"
+  },
+  {
+    "title": "GOOD NIGHT MOSTAGANEM 🌍 ✨📍 LES SABLETTES",
+    "url": "https://hmida71.github.io/Elguide/video/GOOD%20NIGHT%20MOSTAGANEM%20🌍%20✨📍%20LES%20SABLETTES%20📍📍%20MOSTAGANEM%20📍📸-%20👏❤️Bienvenue%20à%20mostaganem%20La%20.mp4"
+  },
+  {
+    "title": "HELLO WORLD 🌍 💙📍 SALAMANDRE",
+    "url": "https://hmida71.github.io/Elguide/video/HELLO%20WORLD%20🌍%20💙📍%20SALAMANDRE%20📍📸-%20@cheikh_abdellatif%20latif%20👏🏻❤️%20📍MOSTAGANEM📍Bienvenue%20à%20M.mp4"
+  },
+  {
+    "title": "HELLO WORLD 🌍 😍📍 MESRA ISLAND",
+    "url": "https://hmida71.github.io/Elguide/video/HELLO%20WORLD%20🌍%20😍📍%20MESRA%20ISLAND%20📍📍%20MOSTAGANEM%20📍📸-%20redouanedoulach👏❤️Bienvenue%20à%20mostagane.mp4"
+  },
+  {
+    "title": "HELLO WORLD 🌧️😍 يوم ممطر في مستغانم",
+    "url": "https://hmida71.github.io/Elguide/video/HELLO%20WORLD%20🌧️😍يوم%20ممطر%20في%20مستغانم%20😍%20الحمد%20لله%20🤲📍MOSTAGANEM📍📸-%20redouanedoulach%20👏🏻❤️%20Bie.mp4"
+  },
+  {
+    "title": "HELLO WORLD 😍🌧️ SALAMANDRE THIS WEEK",
+    "url": "https://hmida71.github.io/Elguide/video/HELLO%20WORLD%20😍🌧️%20SALAMANDRE%20THIS%20WEEK🌧️😍📍MOSTAGANEM📍📸-%20@nadirmaker%20👏🏻❤️%20Bienvenue%20à%20Most.mp4"
+  },
+  {
+    "title": "MOSTA WORLD 😍❤️📍 MOSTAGANEM VILLE",
+    "url": "https://hmida71.github.io/Elguide/video/MOSTA%20WORLD%20😍❤️📍MOSTAGANEM%20VILLE📍📸-%20yacine_drk.94%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perle%20de%20.mp4"
+  },
+  {
+    "title": "MOSTAGANEM ❤️😍📍 MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/MOSTAGANEM%20❤️😍📍%20MOSTAGANEM%20📍📸-%20@simo_wassim_nabi10%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perle%20de.mp4"
+  },
+  {
+    "title": "MostaganeM Today 🌧️🌧️😍📍MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/MostaganeM%20Today%20🌧️🌧️😍📍MOSTAGANEM📍📸-%20redouanedoulach%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perl.mp4"
+  },
+  {
+    "title": "إحتفالات فريق ترجي مستغانم",
+    "url": "https://hmida71.github.io/Elguide/video/إحتفالات%20فريق%20ترجي%20مستغانم%20مع%20أنصاره%20الأوفياء%20بمناسبة%20صعوده%20إلى%20القسم%20الأول%20على%20متن%20الحافلة%20المك.mp4"
+  },
+  {
+    "title": "راني في الصحراء ❌راني في مستغانم ✅ 📍 CAP IVI",
+    "url": "https://hmida71.github.io/Elguide/video/راني%20في%20الصحراء%20❌راني%20في%20مستغانم%20✅%20📍%20CAP%20IVI%20📍📍%20MOSTAGANEM%20📍📸-@%20👏❤️Bienvenue%20à%20mostaganem.mp4"
+  },
+  {
+    "title": "ساحة فلسطين 🇯🇴❤️🇩🇿📍 OUILIS MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/ساحة%20فلسطين%20🇯🇴❤️🇩🇿📍%20OUILIS%20MOSTAGANEM%20📍📸-%20@simo_wassim_nabi10%20👏🏻❤️%20Bienvenue%20à%20Mostagan.mp4"
+  },
+  {
+    "title": "مسجد بدر 😍📍MOSTAGANEM",
+    "url": "https://hmida71.github.io/Elguide/video/مسجد%20بدر%20😍📍MOSTAGANEM📍📸-%20@nadirmaker%20👏🏻❤️%20Bienvenue%20à%20Mostaganem%20la%20perle%20de%20Méditerrané%20❤.mp4"
+  }
+]
