@@ -1,4 +1,4 @@
-final Map<String, List<Map<String, String>>> wilayaVideos = {
+{
   "27": [
     {
       "url": "https://github.com/Hmida71/Elguide/releases/download/v1.0/HELLO.WORLD.El.Aarsa.-.@redouane.doulach5.MOSTAGANEM.Bienvenue.a.Mostagane.mp4",
